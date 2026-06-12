@@ -17,5 +17,5 @@ This topic is particularly relevant to:
 - Deep mining operations
 - Dynamic ground support design
 - Underground excavation stability
-- LKAB mining conditions
-- LTU PhD research in Mining and Rock Engineering
+- High-stress rock environments
+- Rockburst risk assessment
